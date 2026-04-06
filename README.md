@@ -1,7 +1,5 @@
 <p align="center">
-  <br/>
-  <strong style="font-size: 2em;">🐿️</strong>
-  <br/>
+  <img src="images/logo.png" alt="dotori.md logo" width="240" />
 </p>
 
 # dotori.md
